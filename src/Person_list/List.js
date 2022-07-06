@@ -9,7 +9,7 @@ function List({ img, name, job, info }) {
           <img
             className='h-32 w-32 rounded-full border-4 border-sky-800 '
             src={img}
-            alt='image'
+            alt=''
           />
         </div>
 
